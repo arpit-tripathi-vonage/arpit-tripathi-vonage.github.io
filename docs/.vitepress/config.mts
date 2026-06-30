@@ -10,13 +10,21 @@ const topNavbar = [
     ]
 
 const mainSidebar = [
+      { 
+        text: 'Home',
+        items: [
+          { text: 'Runtime API Examples', link: '/api-examples' }
+        ],
+        collapsed: true, 
+      },
       {
         text: 'Examples',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+        ],
+        collapsed: true, 
+      },
     ]
 
 // https://vitepress.dev/reference/site-config
