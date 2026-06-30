@@ -3,19 +3,21 @@ import { defineConfig } from 'vitepress'
 const topNavbar = [
       { text: 'Home', link: '/' },
       { text: 'Sections', items: [
+          { text: 'Overview', link: '/overview' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'API Examples', link: '/api-examples' }
       ]},
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'References', link: '/references' }
     ]
 
 const mainSidebar = [
+      { text: 'Overview', link: '/overview' },
       { 
         text: 'Home',
         items: [
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'AI for dev', link: '/ai' }
         ],
-        collapsed: true, 
+        collapsed: false, 
       },
       {
         text: 'Examples',
