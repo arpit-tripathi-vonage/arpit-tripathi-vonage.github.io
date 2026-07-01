@@ -1,4 +1,4 @@
 # Artificial Intelligence
 
-- Skills : [AI Agents](skills/ai-agents) and [Agentic AI](skills/agentic-ai)
+- Skills Plan : [AI Agents](skills/ai-agents) and [Agentic AI](skills/agentic-ai)
 - 
