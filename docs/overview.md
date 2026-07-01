@@ -6,10 +6,15 @@
 - [Learning while working](work/)
 - Senior Dev
     - [Software Architecture](sw-architecture)
+    - [Distributed Systems](distributed-systems)
+    - [System Design](system-designs)
+    - [Microservices](microservices)
 - [Devops](devops/) : [bash](devops/bash) and [Linux](devops/linux.md)
   - CI/CD tools : [jenkins](devops/jenkins)
   - [docker](devops/docker)
   - [NGINX](devops/nginx)
   - [Monitoring](devops/monitoring)
-- Backend : [Java](backend/java)
+- [AWS](aws)
+- Backend : [Java](backend/java), [gradle](backend/gradle), [Spring Framework](backend/spring/), [Kafka](backend/kafka), [Auth](backend/auth), [API](backend/api)
+  - JUnit - Junit 4 and Junit 5
 - Frontend : [css](frontend/css), [typescript](frontend/typescript), [vue](frontend/vue)
