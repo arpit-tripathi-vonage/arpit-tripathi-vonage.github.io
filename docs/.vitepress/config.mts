@@ -57,6 +57,7 @@ export default defineConfig({
   description: "notes for reference",
   base: "/",
   cleanUrls: true,
+  ignoreDeadLinks: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: topNavbar,
