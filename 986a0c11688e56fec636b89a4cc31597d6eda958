@@ -1,0 +1,28 @@
+docs/ai/skills/ai-agents.md
+  h_076573b8444013 1-9
+docs/references.md
+  h_076573b8444013 1-7
+docs/overview.md
+  h_076573b8444013 1-5
+docs/.vitepress/config.mts
+  h_076573b8444013 6,10,14,18,20
+docs/oreilly.md
+  h_076573b8444013 1-72
+docs/cryptography.md
+  h_076573b8444013 1-39
+docs/index.md
+  h_076573b8444013 11-12,18-20
+docs/ai/index.md
+  h_076573b8444013 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "986a0c11688e56fec636b89a4cc31597d6eda958",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
