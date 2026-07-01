@@ -1,0 +1,1 @@
+import{_ as t,o as i,c as l,a4 as a}from"./chunks/framework.DkKDtR5x.js";const u=JSON.parse(`{"title":"O'reilly","description":"","frontmatter":{},"headers":[],"relativePath":"oreilly.md","filePath":"oreilly.md"}`),n={name:"oreilly.md"};function r(o,e,s,c,g,h){return i(),l("div",null,[...e[0]||(e[0]=[a("",9)])])}const p=t(n,[["render",r]]);export{u as __pageData,p as default};

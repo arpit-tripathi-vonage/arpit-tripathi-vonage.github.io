@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as t,a4 as s}from"./chunks/framework.DkKDtR5x.js";const p=JSON.parse('{"title":"MCP servers","description":"","frontmatter":{},"headers":[],"relativePath":"ai/mcp.md","filePath":"ai/mcp.md"}'),i={name:"ai/mcp.md"};function c(n,e,o,l,h,d){return r(),t("div",null,[...e[0]||(e[0]=[s("",5)])])}const _=a(i,[["render",c]]);export{p as __pageData,_ as default};
