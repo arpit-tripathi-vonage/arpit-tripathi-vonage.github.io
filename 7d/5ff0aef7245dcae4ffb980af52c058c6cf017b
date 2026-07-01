@@ -1,0 +1,14 @@
+docs/.vitepress/config.mts
+  h_076573b8444013 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "7d5ff0aef7245dcae4ffb980af52c058c6cf017b",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
