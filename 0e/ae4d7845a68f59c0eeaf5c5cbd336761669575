@@ -1,0 +1,52 @@
+docs/.vitepress/config.mts
+  h_076573b8444013 6-9,13,15,18-19,21-35,37-43,45,48-49
+docs/cryptography.md
+  h_076573b8444013 8,29,35,41-112
+docs/devops/linux.md
+  h_076573b8444013 1-93
+docs/devops/index.md
+  h_076573b8444013 1-26
+docs/work/dashboard-ai-week.md
+  h_076573b8444013 1-146
+docs/frontend/vue.md
+  h_076573b8444013 1-22
+docs/work/index.md
+  h_076573b8444013 1-6
+docs/frontend/css.md
+  h_076573b8444013 1-20
+docs/ai/index.md
+  h_076573b8444013 3
+docs/devops/bash.md
+  h_076573b8444013 1-123
+docs/devops/docker.md
+  h_076573b8444013 1-47
+docs/devops/jenkins.md
+  h_076573b8444013 1-45
+docs/devops/nginx.md
+  h_076573b8444013 1-98
+docs/sw-architecture.md
+  h_076573b8444013 1-37
+docs/devops/monitoring.md
+  h_076573b8444013 1-8
+docs/todo.md
+  h_076573b8444013 1-43
+docs/overview.md
+  h_076573b8444013 3-15
+docs/work/braintree.md
+  h_076573b8444013 1-47
+docs/backend/java.md
+  h_076573b8444013 1-181
+docs/frontend/typescript.md
+  h_076573b8444013 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "0eae4d7845a68f59c0eeaf5c5cbd336761669575",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
