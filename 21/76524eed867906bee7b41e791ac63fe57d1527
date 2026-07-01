@@ -1,0 +1,32 @@
+docs/backend/spring/core.md
+  h_076573b8444013 1-134
+docs/backend/spring/ai.md
+  h_076573b8444013 1-15
+docs/ai/skills/ai-agents.md
+  h_076573b8444013 8-17
+docs/ai/introduction.md
+  h_076573b8444013 1-91
+docs/backend/spring/index.md
+  h_076573b8444013 1-131
+docs/ai/index.md
+  h_076573b8444013 1,4-81
+docs/overview.md
+  h_076573b8444013 9-11,17-19
+docs/backend/api.md
+  h_076573b8444013 1-13
+docs/backend/spring/data.md
+  h_076573b8444013 1-24
+docs/backend/spring/security.md
+  h_076573b8444013 1-89
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.8",
+  "base_commit_sha": "2176524eed867906bee7b41e791ac63fe57d1527",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
