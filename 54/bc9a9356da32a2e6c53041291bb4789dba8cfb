@@ -1,0 +1,14 @@
+docs/system-design/index.md
+  h_076573b8444013 1-4,7,9-73,75-157,161-163
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "54bc9a9356da32a2e6c53041291bb4789dba8cfb",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
