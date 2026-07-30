@@ -1,0 +1,22 @@
+docs/distributed-systems/distributed-transactions.md
+  h_076573b8444013 1-55
+docs/microservices/index.md
+  h_076573b8444013 1-3
+docs/distributed-systems/index.md
+  h_076573b8444013 1-3
+docs/microservices/communications.md
+  h_076573b8444013 1-23
+docs/ai/index.md
+  h_076573b8444013 25-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "f2fa9f31ac1caaf9990dfd4a308e58946d86b9c4",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
