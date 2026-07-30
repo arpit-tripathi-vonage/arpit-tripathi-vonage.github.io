@@ -22,6 +22,11 @@
   - [All Machine Learning algorithms explained in 17 min](https://www.youtube.com/watch?v=E0Hmnixke2g){target="_blank"}
   - [How JP Morgan Built An AI Agent for Investment Research with LangGraph - LangChain Interrupt](https://www.youtube.com/watch?v=yMalr0jiOAc){target="_blank"}
 
+```
+AGENT = Model + Harness + UI
+```
+
+
 ## Why AI for Java Developers?
 
 - Industry-wide AI Adoption?
