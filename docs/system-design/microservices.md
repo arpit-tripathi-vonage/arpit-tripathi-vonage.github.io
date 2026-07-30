@@ -1,4 +1,8 @@
-# Inter-Service Communication
+# Microservices
+
+- [Inter-Service Communication](communications)
+
+## Inter-Service Communication
 
 - Synchronous Communication : Blocking
   - HttpMethods

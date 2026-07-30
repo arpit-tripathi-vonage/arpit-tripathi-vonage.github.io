@@ -1,5 +1,6 @@
 ---
-outline: deep
+# outline: deep
+outline: 2-4
 ---
 
 # Runtime API Examples

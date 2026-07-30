@@ -1,8 +1,8 @@
----
-outline: deep
----
+# Distributed Systems
 
-# Distributed Transactions
+- [Distributed Transactions](distributed-transactions)
+
+## Distributed Transactions
 
 ::: tip Scenario
 Independent services owning the spearate DB don't know about each other, and hence we don't have complete rollback possible as opposed to single DB commiting related transactions as `either ALL or NONE`.
@@ -13,7 +13,7 @@ Independent services owning the spearate DB don't know about each other, and hen
   - 2-Phase Commit
   - Saga Pattern
 
-## 2-Phase Commit
+### 2-Phase Commit
 
 ::: info Strong Consistency
 This gives `Strong Consistency`, same gaurantee as single DB.  
@@ -33,7 +33,7 @@ No window of inconsitency or partial consistency state.
   - Coordinator sends commit message to all participants
   - Participants commit their transactions and release the locks
 
-### Issue with 2-phase commit
+#### Issue with 2-phase commit
 - Needs multiple machines to be healthy all at the same time.
 - Example: Coordinator crashes after getting yes from all participants, but before sending a commit message.
   - all participants are stuck with locked rows and don't know what to do next (commit or abort)
@@ -41,7 +41,7 @@ No window of inconsitency or partial consistency state.
 - Single slow participant holds up the entire transaction.
 - Participant can go offline before responding yes/no and coordinator is left waiting (timeout can solve it)
 
-## Saga Patterns
+### Saga Patterns
 
 ::: info Eventual Consistency
 This gives strong Consistency, same gaurantee as single DB.  
