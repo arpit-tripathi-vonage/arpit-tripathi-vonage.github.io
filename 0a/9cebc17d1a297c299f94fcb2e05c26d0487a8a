@@ -1,0 +1,24 @@
+docs/interview.md
+  h_076573b8444013 1-36
+docs/examples/api-examples.md
+  h_076573b8444013 2-3
+docs/system-design/plan.md
+  h_076573b8444013 1,3-5
+docs/dsa/index.md
+  h_076573b8444013 1-15
+docs/overview.md
+  h_076573b8444013 1,16-22
+docs/system-design/index.md
+  h_076573b8444013 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.18",
+  "base_commit_sha": "0a9cebc17d1a297c299f94fcb2e05c26d0487a8a",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
