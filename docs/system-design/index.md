@@ -4,12 +4,23 @@ outline: deep
 
 # System Design
 
-This is the HLD part in interviews, Here is a week-by-week [plan](plan) spread over 6-week and 12-week for prep.
+This is the HLD part in interviews, Here is a [week-by-week plan](plan) spread over 6-week and 12-week for prep.
 
 ::: details references
 
+- [System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction){target="_blank"}
+- [algomaster - SD Interview](https://algomaster.io/learn/system-design-interviews/introduction){target="_blank"}
+- [bytebytego](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users){target="_blank"}
+- [HLD mastery](https://hldmastery.com/){target="_blank"}
+- [tech interview handbook](https://www.techinterviewhandbook.org/){target="_blank"}
+- [Design Gurus](https://www.designgurus.io/learn-system-design){target="_blank"}
+  - [Grokking](https://www.designgurus.io/course/grokking-the-system-design-interview){target="_blank"}
 
+:::
 
+::: details what is grokking system design?
+Grokking System Design is a popular pattern-based methodology and course framework used by software engineers to prepare for technical architecture interviews.  
+Instead of memorizing answers to random questions, it teaches reusable building blocks like caching, sharding, and load balancing.
 :::
 
 ## Phase 1 — Foundations (Start Here)
