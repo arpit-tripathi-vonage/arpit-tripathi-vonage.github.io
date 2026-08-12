@@ -1,0 +1,28 @@
+docs/.vitepress/config.mts
+  h_076573b8444013 42-50,59-67
+  h_076573b8444013 68-69
+docs/backend/java/index.md
+  h_076573b8444013 1-3
+docs/.vitepress/theme/index.ts
+  h_076573b8444013 1-13
+docs/index.md
+  h_076573b8444013 21-26
+docs/overview.md
+  h_076573b8444013 7-9,16-19,21-26
+  h_076573b8444013 10,33
+docs/backend/java/concurrency.md
+  h_076573b8444013 1-199
+docs/lld/index.md
+  h_076573b8444013 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e14c32a08d040f5b2f8630d3bb5bc02f20f5f31f",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
