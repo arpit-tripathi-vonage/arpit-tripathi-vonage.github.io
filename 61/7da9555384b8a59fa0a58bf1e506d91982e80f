@@ -1,0 +1,19 @@
+package.json
+  h_076573b8444013 12-15
+docs/.vitepress/theme/index.ts
+  h_076573b8444013 2-3,5-8,11-13
+  h_076573b8444013 16
+package-lock.json
+  h_076573b8444013 7-10,2192-2197,2866-2874
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "617da9555384b8a59fa0a58bf1e506d91982e80f",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
