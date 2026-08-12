@@ -1,0 +1,23 @@
+docs/backend/api.md
+  h_076573b8444013 5
+docs/devops/monitoring.md
+  h_076573b8444013 8,10-31
+  h_076573b8444013 9
+docs/backend/java/concurrency.md
+  h_076573b8444013 21-22
+docs/overview.md
+  h_076573b8444013 21
+docs/frontend/css.md
+  h_076573b8444013 9,19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d558d5efdf17215ba30d5da2527ecb9004faf694",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
