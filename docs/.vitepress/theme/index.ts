@@ -1,13 +1,16 @@
-// .vitepress/theme/index.ts
 import type { EnhanceAppContext } from 'vitepress'
-import DefaultTheme from "vitepress/theme"
+import DefaultTheme from 'vitepress/theme'
+import vitepressNprogress from 'vitepress-plugin-nprogress'
 
-import vitepressNprogress from 'vitepress-plugin-nprogress';
-import 'vitepress-plugin-nprogress/lib/css/index.css';
+// ❌ Change from: 'vitepress-plugin-nprogress/file/style.css'
+//  Update to the correct path below:
+import 'vitepress-plugin-nprogress/lib/css/index.css'
+import 'vitepress-plugin-nprogress/lib/css/index.css'
 
 export default {
-  ...DefaultTheme,
-  enhanceApp: (ctx: EnhanceAppContext) => {
+  extends: DefaultTheme,
+  enhanceApp(ctx: EnhanceAppContext) {
+    // Invoke the plugin
     vitepressNprogress(ctx)
   }
 }
