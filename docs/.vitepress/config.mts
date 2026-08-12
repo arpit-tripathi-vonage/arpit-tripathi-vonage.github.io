@@ -39,14 +39,32 @@ const optionalSidebar = [
 const mainSidebar = [
       { text: 'Overview', link: '/overview' },
       { text: "O'reilly", link: '/oreilly' },
-      { text: 'AI for developers', link: '/ai' },
-      // ...optionalSidebar,
+      { text: 'AI for developers', link: '/ai/' },
+      {
+        collapsed: false, 
+        text: 'Backend',
+        items: [
+          { text: 'Spring Framework', link: '/backend/spring/' },
+          { text: 'Java', link: '/backend/java/' }
+        ],
+      },
       {
         collapsed: true, 
         text: 'Examples',
         items: [
           { text: 'Markdown Examples', link: '/examples/markdown-examples' },
           { text: 'Runtime API Examples', link: '/examples/api-examples' }
+        ],
+      },
+      {
+        collapsed: true, 
+        text: 'Interview Focus',
+        items: [
+          { text: 'Landscape', link: '/interview' },
+          { text: 'DSA', link: '/dsa/' },
+          { text: 'LLD', link: '/lld/' },
+          { text: 'System Design (HLD)', link: '/system-design/' },
+          { text: 'System Design Plan', link: '/system-design/plan' },
         ],
       },
     ]

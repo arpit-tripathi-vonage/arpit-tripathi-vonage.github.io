@@ -18,9 +18,11 @@ features:
   - title: Overview
     details: Overview of topics on this site (kind of sitemap)
     link: /overview
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Interview Focus
+    details: Interview Prep focused
+    link: /interview
+  - title: Backend
+    details: Backend Dev
+    link: /overview#backend
 ---
 

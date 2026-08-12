@@ -1,4 +1,22 @@
-# Java
+# Java Concurrency
+
+The core topic in Java that handles multi-core processors and mutexes is Java Concurrency (specifically managed via the java.util.concurrent package). [1, 2] 
+Here is the breakdown of how Java handles both concepts:
+
+**Multi-Core Processors: Java Threads & Thread Pools**  
+Java automatically utilizes multi-core processors by mapping Java threads directly to operating system threads. [3, 4] 
+
+* Thread class: The basic unit of concurrent execution.
+* Executor Framework: Manage a pool of worker threads to optimize CPU core usage without manually creating threads.
+* ForkJoinPool: Designed specifically for data-parallel tasks that can be broken down into smaller pieces to fully saturate multi-core processors. [5, 6, 7, 8, 9] 
+
+**Mutex (Mutual Exclusion): Synchronization**  
+Java implements the concept of a mutex through several built-in mechanisms to prevent thread interference. [10, 11, 12] 
+
+* synchronized keyword: The simplest way to lock a block of code or an entire method to a single thread.
+* ReentrantLock: A explicit lock class that acts exactly like a traditional mutex but offers advanced features like fairness policies and interruptible lock waits.
+* Semaphore: A concurrency utility that can act as a mutex when initialized with a permit count of exactly one. [13, 14, 15, 16, 17] 
+
 
 ## Multicore Processors
 
@@ -43,7 +61,7 @@
 - Intel Core i9 12900 family provides 8 cores and 24 threads.
 - Intel Core i7 12700 family provides 8 cores and 20 threads.
 - Top Intel Core i5 12600K processors offer 6 cores and 16 threads.
-- 
+
 
 ## Multi-Threading 
 
