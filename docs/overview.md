@@ -18,6 +18,7 @@
   - [Java](backend/java) and [Spring Framework](backend/spring/)
   - [gradle](backend/gradle), [Kafka](backend/kafka), [Auth](backend/auth), [API](backend/api)
   - JUnit - Junit 4 and Junit 5
+  - SLF4J - [Changed in 2.0](https://www.slf4j.org/faq.html#changesInVersion200)
 
 ## Frontend
 

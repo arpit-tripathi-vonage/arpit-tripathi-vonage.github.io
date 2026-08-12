@@ -2,7 +2,7 @@
 
 ## API Protocols Explained: When to Use HTTP, WebSockets, gRPC & More
 
-- [API Protocols Explained: When to Use HTTP, WebSockets, gRPC & More](https://www.youtube.com/watch?v=lcPcyNAEZgo){:target="_blank"}
+- [API Protocols Explained: When to Use HTTP, WebSockets, gRPC & More](https://www.youtube.com/watch?v=lcPcyNAEZgo){target="_blank"}
 
 ## Http
 

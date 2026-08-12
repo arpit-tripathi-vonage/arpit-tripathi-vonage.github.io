@@ -6,7 +6,7 @@ refs
 
 ## CSS Naming Conventions
 
-- [CSS Naming Conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/){:target="_blank"}
+- [CSS Naming Conventions](https://www.freecodecamp.org/news/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849/){target="_blank"}
 - Hyphen Delimited Strings
 - BEM Naming Convention
   - B for Block : `.stick-man`
@@ -16,5 +16,5 @@ refs
 
 ## CSS Flexbox
 
-- [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/){:target="_blank"}
+- [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/){target="_blank"}
 

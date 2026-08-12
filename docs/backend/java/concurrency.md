@@ -18,6 +18,8 @@ Java implements the concept of a mutex through several built-in mechanisms to pr
 * Semaphore: A concurrency utility that can act as a mutex when initialized with a permit count of exactly one. [13, 14, 15, 16, 17] 
 
 
+[![](https://media.geeksforgeeks.org/wp-content/uploads/20260421172723088840/synchronizatin.webp)](https://www.geeksforgeeks.org/java/synchronization-in-java/)
+
 ## Multicore Processors
 
 - Integrated circuit that has two or more processor cores attached for enhanced performance and reduced power consumption. 
