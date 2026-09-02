@@ -1,0 +1,19 @@
+docs/system-design/index.md
+  h_076573b8444013 9,11,19-21,177-180
+  h_076573b8444013 22
+docs/.vitepress/theme/index.ts
+  h_076573b8444013 9,16-18
+components/YouTubeEmbed.vue
+  h_076573b8444013 1-130
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "942296a5703f6167b5221d31cab2bd679adf977b",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
