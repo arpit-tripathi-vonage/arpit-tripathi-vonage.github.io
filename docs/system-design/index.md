@@ -6,17 +6,19 @@ outline: deep
 
 This is the HLD part in interviews, Here is a [week-by-week plan](plan) spread over 6-week and 12-week for prep.
 
-::: details references
-
+::: details references {open}
 - [System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction){target="_blank"}
-- [algomaster - SD Interview](https://algomaster.io/learn/system-design-interviews/introduction){target="_blank"}
+- algomaster : [SD Interview](https://algomaster.io/learn/system-design-interviews/introduction){target="_blank"} and [SD Fundamental](https://algomaster.io/learn/system-design/course-introduction)
 - [bytebytego](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users){target="_blank"}
 - [HLD mastery](https://hldmastery.com/){target="_blank"}
 - [tech interview handbook](https://www.techinterviewhandbook.org/){target="_blank"}
 - [Design Gurus](https://www.designgurus.io/learn-system-design){target="_blank"}
   - [Grokking](https://www.designgurus.io/course/grokking-the-system-design-interview){target="_blank"}
-
 :::
+
+<YouTubeEmbed video-id="FxAom29OEKE" />
+
+<YouTubeEmbed video-id="SE2KF-vxvS0" />
 
 ::: details what is grokking system design?
 Grokking System Design is a popular pattern-based methodology and course framework used by software engineers to prepare for technical architecture interviews.  
@@ -171,4 +173,8 @@ Instead of memorizing answers to random questions, it teaches reusable building 
 
 ![](https://media.licdn.com/dms/image/v2/D4E22AQHvqWSvaQR3hQ/feedshare-image-high-res/feedshare-image-high-res/0/1695138310540?e=2147483647&v=beta&t=65Rg3VfVLNYX1juJARSdeJyOLSqIOpk2gAAI70s7JHM)
 
+:::
+
+::: details :arrow_right: I ACED my Technical Interviews knowing these System Design Basics
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/FxAom29OEKE/0.jpg)](https://www.youtube.com/watch?v=FxAom29OEKE)
 :::
