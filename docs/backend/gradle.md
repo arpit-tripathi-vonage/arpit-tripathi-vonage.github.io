@@ -38,3 +38,23 @@ Reference article [here](https://stackoverflow.com/questions/44493378/whats-the-
 Reference article [here](https://stackoverflow.com/questions/28404149/how-to-download-javadocs-and-sources-for-jar-using-gradle-2-0){target="_blank"}
 
 - [Building Java & JVM projects](https://docs.gradle.org/current/userguide/building_java_projects.html){target="_blank"}
+
+## Commands and Params
+
+-P is a command-line option for Gradle that allows you to pass a project property to the build. In your Jenkinsfile, -Pdatabase.username=${DB_USERNAME} sets the database.username property for the Gradle build, making ${DB_USERNAME} available as a variable inside your Gradle scripts. This is useful for passing environment-specific or secret values (like database credentials) into the build process.
+
+Some common Gradle command-line options include:
+
+```gradle
+-P<prop>=<value>: Set a project property.
+-D<prop>=<value>: Set a JVM system property.
+-x <task>: Exclude a task from execution.
+--info, --debug, --quiet: Set log level.
+--stacktrace: Show stack trace on error.
+--build-file <file>: Use a specific build file.
+--refresh-dependencies: Refresh dependencies.
+--parallel: Run tasks in parallel.
+--profile: Profile build performance.
+--offline: Run in offline mode.
+-S is a Gradle command-line option that stands for --stacktrace. It tells Gradle to print the stack trace for any build failure, which helps with debugging by showing detailed error information.
+```

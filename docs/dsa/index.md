@@ -13,3 +13,5 @@
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*MAWv3rNP_xVPYswfhbLMSw.png)
 
 ![](https://media.licdn.com/dms/image/v2/D5622AQEmecCboR8ZVQ/feedshare-shrink_1280/B56Z7rDBYqGgAM-/0/1782059898675?e=2147483647&v=beta&t=0XD4Ad5lWqndIbWhtH7hAFTKjhUxdvQA98NS0iNsirE)
+
+<YouTubeEmbed video-id="RYT08CaYq6A" />

@@ -1,73 +1,74 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 const topNavbar = [
-      { text: 'Home', link: '/' },
-      { text: 'Overview', link: '/overview' },
-      // { text: 'Sections', items: [  
-      //     { text: 'Markdown Examples', link: '/markdown-examples' },
-      //     { text: 'API Examples', link: '/api-examples' }
-      // ]},
-      { text: 'References', link: '/references' }
-    ]
-
-const optionalSidebar = [
-    { 
-        collapsed: false,
-        text: 'Home',
-        items: [
-          { text: 'AI for dev', link: '/ai' },
-        ], 
-      },
-      { 
-        collapsed: true,
-        text: 'Backend',
-        items: [
-          { text: 'Java', link: '/backend/java' },
-        ], 
-      },
-      { 
-        collapsed: true,
-        text: 'Frontend',
-        items: [
-          { text: 'CSS', link: '/frontend/css' },
-          { text: 'TypeScript', link: '/frontend/typescript' },
-          { text: 'Vue', link: '/frontend/vue' },
-        ], 
-      },
-    ]
+  { text: "Home", link: "/" },
+  { text: "Overview", link: "/overview" },
+  // { text: 'Sections', items: [
+  //     { text: 'Markdown Examples', link: '/markdown-examples' },
+  //     { text: 'API Examples', link: '/api-examples' }
+  // ]},
+  { text: "References", link: "/references" },
+];
 
 const mainSidebar = [
-      { text: 'Overview', link: '/overview' },
-      { text: "O'reilly", link: '/oreilly' },
-      { text: 'AI for developers', link: '/ai/' },
+  { text: "Overview", link: "/overview" },
+  { text: "O'reilly", link: "/oreilly" },
+  { text: "AI for developers", link: "/ai/" },
+  {
+    collapsed: false,
+    text: "Backend",
+    items: [
+      { text: "Spring Framework", link: "/backend/spring/" },
+      { text: "Java", link: "/backend/java/" },
+    ],
+  },
+  {
+    collapsed: true,
+    text: "Frontend",
+    items: [
+      { text: "CSS", link: "/frontend/css" },
+      { text: "TypeScript", link: "/frontend/typescript" },
+      { text: "Vue", link: "/frontend/vue" },
+    ],
+  },
+  {
+    collapsed: true,
+    text: "Interview Focus",
+    items: [
+      { text: "Landscape", link: "/interview" },
+      { text: "DSA", link: "/dsa/" },
+      { text: "LLD", link: "/lld/" },
+      { text: "Concurrency Interview", link: "/concurrency/" },
+    ],
+  },
+  {
+    text: "System Design (HLD)",
+    collapsed: true,
+    items: [
+      { text: "HLD Study Plan", link: "/system-design/plan" },
+      { text: "HLD Overview", link: "/system-design/" },
       {
-        collapsed: false, 
-        text: 'Backend',
-        items: [
-          { text: 'Spring Framework', link: '/backend/spring/' },
-          { text: 'Java', link: '/backend/java/' }
-        ],
+        collapsed: true,
+        text: "Fundamentals (Theory)",
+        items: [],
       },
       {
-        collapsed: true, 
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/examples/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/examples/api-examples' }
-        ],
+        collapsed: true,
+        text: "Interview",
+        items: [],
       },
-      {
-        collapsed: true, 
-        text: 'Interview Focus',
-        items: [
-          { text: 'Landscape', link: '/interview' },
-          { text: 'DSA', link: '/dsa/' },
-          { text: 'LLD', link: '/lld/' },
-          { text: 'System Design (HLD)', link: '/system-design/' },
-          { text: 'System Design Plan', link: '/system-design/plan' },
-        ],
-      },
-    ]
+      //
+    ],
+  },
+  {
+    collapsed: true,
+    text: "Examples",
+    items: [
+      { text: "Markdown Examples", link: "/examples/markdown-examples" },
+      { text: "Runtime API Examples", link: "/examples/api-examples" },
+    ],
+  },
+];
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -83,7 +84,7 @@ export default defineConfig({
     sidebar: mainSidebar,
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+    ],
+  },
+});

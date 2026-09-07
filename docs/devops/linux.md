@@ -91,3 +91,15 @@ The ss command is usually pre-installed on most Linux distributions. If it's not
 ```sh
 find . -type f -name "*my-service*.log"
 ```
+
+## SSH Agents
+
+To use an SSH agent in an Alpine Linux environment, you'll need to install the openssh-client package and potentially use the keychain package to manage the agent. This allows you to store your SSH private key in memory and avoid repeatedly entering your passphrase. 
+
+Install the keychain package. keychain helps manage SSH agent sessions, ensuring that they are running even after you log out or close a terminal. Add eval $(keychain) to your ~/.bashrc or ~/.bash_profile file to automatically start keychain when you start a shell. 
+
+Explanation:
+* openssh-client: Provides the necessary tools for SSH, including ssh-agent and ssh-add.
+* ssh-agent: A daemon that stores your SSH keys in memory.
+* ssh-add: Adds a key to the SSH agent.
+* keychain: A utility that helps manage SSH agent sessions across multiple shells and even after logging out. It can automatically restart the agent if it's killed. 

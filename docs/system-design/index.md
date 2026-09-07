@@ -12,8 +12,7 @@ This is the HLD part in interviews, Here is a [week-by-week plan](plan) spread o
 - [bytebytego](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users){target="_blank"}
 - [HLD mastery](https://hldmastery.com/){target="_blank"}
 - [tech interview handbook](https://www.techinterviewhandbook.org/){target="_blank"}
-- [Design Gurus](https://www.designgurus.io/learn-system-design){target="_blank"}
-  - [Grokking](https://www.designgurus.io/course/grokking-the-system-design-interview){target="_blank"}
+- Design Gurus : [learn](https://www.designgurus.io/learn-system-design){target="_blank"} and [SD Interview Roadmap](https://www.designgurus.io/path/system-design-interview-playbook){target="_blank"}
 :::
 
 <YouTubeEmbed video-id="FxAom29OEKE" />
