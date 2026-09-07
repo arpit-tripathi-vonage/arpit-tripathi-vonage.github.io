@@ -1,0 +1,23 @@
+docs/.vitepress/config.mts
+  h_076573b8444013 1,4-5,10-11,14-22,27-31,36-43,45,48-49,65-71,87-90
+  h_076573b8444013 6-9,23-26,32-35,44,46-47,51-53,56-58,60-64
+docs/backend/gradle.md
+  h_076573b8444013 41-60
+docs/devops/linux.md
+  h_076573b8444013 93-105
+docs/system-design/index.md
+  h_076573b8444013 15
+docs/dsa/index.md
+  h_076573b8444013 15-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "5d24dd01e24fd282161469905c891709222e1560",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
