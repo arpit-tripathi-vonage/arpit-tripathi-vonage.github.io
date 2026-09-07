@@ -1,0 +1,14 @@
+docs/devops/monitoring.md
+  h_076573b8444013 202-214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "2827414b28f4e396d851faa55d283d2e1748f50c",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
