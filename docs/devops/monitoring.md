@@ -200,3 +200,15 @@ jvm_threads_daemon_threads 17.0
 # TYPE jvm_threads_peak_threads gauge
 jvm_threads_peak_threads 23.0
 ```
+
+## Micrometer
+
+To have "dynamic" tag values, simply skip the instantiation of the counters in the initCounters() method. Everytime the counter shall be increased, instantiate a counter by using its builder method and increment, for example:
+```java
+Counter.builder("iso_response")
+    .tags("mti", request.getMTI())
+    .tags("response_code", myReponseCode)
+    .register(meterRegistry)
+    .increment();
+```
+In fact, as the `io.micrometer.core.instrument.Counter.Builder.register` method states in its JavaDoc, a new counter is returned only if a counter with the same tag values does not yet exist. This is because each registry is guaranteed to only create one counter for the same combination of name and tags.
