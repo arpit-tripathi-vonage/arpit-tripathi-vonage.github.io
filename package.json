@@ -9,5 +9,9 @@
     "docs:preview": "vitepress preview docs",
     "predeploy": "npm run docs:build",
     "deploy": "gh-pages -d docs/.vitepress/dist"
+  },
+  "dependencies": {
+    "nprogress": "^0.2.0",
+    "vitepress-plugin-nprogress": "^0.1.1"
   }
 }
