@@ -3,11 +3,8 @@ import { defineConfig } from "vitepress";
 const topNavbar = [
   { text: "Home", link: "/" },
   { text: "Overview", link: "/overview" },
-  // { text: 'Sections', items: [
-  //     { text: 'Markdown Examples', link: '/markdown-examples' },
-  //     { text: 'API Examples', link: '/api-examples' }
-  // ]},
-  { text: "References", link: "/references" },
+  { text: "O'reilly", link: "/oreilly" },
+  { text: "To Do", link: "/todo" },
 ];
 
 const mainSidebar = [
