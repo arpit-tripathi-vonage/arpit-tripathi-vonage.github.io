@@ -1,3 +1,0 @@
-# Java
-
-- [Concurrency](concurrency)
