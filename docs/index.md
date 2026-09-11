@@ -8,21 +8,18 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Overview
-      link: /overview
+      text: O'Reilly
+      link: /oreilly
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: To Do
+      link: /todo
 
 features:
   - title: Overview
     details: Overview of topics on this site (kind of sitemap)
     link: /overview
-  - title: Interview Focus
-    details: Interview Prep focused
-    link: /interview
-  - title: Backend
-    details: Backend Dev
-    link: /overview#backend
+  - title: Experience
+    details: How to Articulate Work Experience
+    link: /exp
 ---
 

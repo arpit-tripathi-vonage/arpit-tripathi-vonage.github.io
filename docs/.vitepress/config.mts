@@ -10,59 +10,18 @@ const topNavbar = [
 const mainSidebar = [
   { text: "Overview", link: "/overview" },
   { text: "O'reilly", link: "/oreilly" },
-  { text: "AI for developers", link: "/ai/" },
+  { text: "To Do", link: "/todo" },
   {
     collapsed: false,
-    text: "Backend",
+    text: "Work Experience",
     items: [
-      { text: "Spring Framework", link: "/backend/spring/" },
-      { text: "Java", link: "/backend/java/" },
-    ],
-  },
-  {
-    collapsed: true,
-    text: "Frontend",
-    items: [
-      { text: "CSS", link: "/frontend/css" },
-      { text: "TypeScript", link: "/frontend/typescript" },
-      { text: "Vue", link: "/frontend/vue" },
-    ],
-  },
-  {
-    collapsed: true,
-    text: "Interview Focus",
-    items: [
-      { text: "Landscape", link: "/interview" },
-      { text: "DSA", link: "/dsa/" },
-      { text: "LLD", link: "/lld/" },
-      { text: "Concurrency Interview", link: "/concurrency/" },
-    ],
-  },
-  {
-    text: "System Design (HLD)",
-    collapsed: true,
-    items: [
-      { text: "HLD Study Plan", link: "/system-design/plan" },
-      { text: "HLD Overview", link: "/system-design/" },
-      {
-        collapsed: true,
-        text: "Fundamentals (Theory)",
-        items: [],
-      },
-      {
-        collapsed: true,
-        text: "Interview",
-        items: [],
-      },
-      //
-    ],
-  },
-  {
-    collapsed: true,
-    text: "Examples",
-    items: [
-      { text: "Markdown Examples", link: "/examples/markdown-examples" },
-      { text: "Runtime API Examples", link: "/examples/api-examples" },
+      { text: "Work Exp", link: "/exp/" },
+      { text: "Overview of 5 years", link: "/exp/overview" },
+      { text: "Behavioral Principles (amazon)", link: "/exp/amazon-leadership-principles" },
+      { text: "What is STAR Method", link: "/exp/star-method" },
+      { text: "My STAR Stories", link: "/exp/star-stories" },
+      { text: "Key Items I think", link: "/exp/key-items" },
+      { text: "Feedbacks", link: "/exp/feedbacks" },
     ],
   },
 ];
