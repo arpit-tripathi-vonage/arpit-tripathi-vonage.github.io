@@ -4,8 +4,9 @@
 
 - [ ] Reply to HR email
   - [x] ~~Item 2~~
-  - [ ] Reply to HR email
-- [ ] Are there any personal docs on ths laptop?
+  - [x] ~~Reply to HR email~~
+
+# Personal docs on ths laptop?
   - [x] ~~Payslips~~
   - [ ] Visa 3y
   - [ ] Visa 2y

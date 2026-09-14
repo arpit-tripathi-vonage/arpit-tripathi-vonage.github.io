@@ -1,12 +1,16 @@
 # Summary of Past 5 years at work
 
 - [Amazon Leadership Principles 16](amazon-leadership-principles)
+- [What is STAR format](star-method)
 - [5 years of vonage](vonage-5y)
-- [ ] 5 Years of work
-- [ ] STAR stories for ticket I ahve worked
-- [ ] Linked in summary
+- User Stories using STAR-L method for ticket I have worked
+
+
+## Profile Update
+
+- [Linked In](linkedin) - summary
 - [ ] Resume update summary for recent experience
-- [ ] Tech stack updated
+- [ ] Tech stack updated 
 
 ## 10 STAR stories
 

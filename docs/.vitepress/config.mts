@@ -16,7 +16,7 @@ const mainSidebar = [
     text: "Work Experience",
     items: [
       { text: "Work Exp", link: "/exp/" },
-      { text: "Overview of 5 years", link: "/exp/overview" },
+      { text: "Overview of 5 years", link: "/exp/vonage-5y" },
       { text: "Behavioral Principles (amazon)", link: "/exp/amazon-leadership-principles" },
       { text: "What is STAR Method", link: "/exp/star-method" },
       { text: "My STAR Stories", link: "/exp/star-stories" },
