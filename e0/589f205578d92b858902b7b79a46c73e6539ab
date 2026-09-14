@@ -1,0 +1,33 @@
+docs/overview.md
+  h_076573b8444013 5
+  h_076573b8444013 4
+docs/exp/vonage-5y.md
+  h_076573b8444013 3-4
+docs/.vitepress/config.mts
+  h_076573b8444013 19
+docs/exp/linkedin.md
+  h_076573b8444013 1-2
+docs/exp/index.md
+  h_076573b8444013 4,6-11
+  h_076573b8444013 13
+docs/exp/amazon-leadership-principles.md
+  h_076573b8444013 3,52-163
+  h_076573b8444013 1-2
+docs/todo.md
+  h_076573b8444013 7-9
+package-lock.json
+  h_076573b8444013 13,2014-2020,2182-2184,2325-2327,2345
+package.json
+  h_076573b8444013 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e0589f205578d92b858902b7b79a46c73e6539ab",
+  "prompts": {},
+  "humans": {
+    "h_076573b8444013": {
+      "author": "Arpit Tripathi <arpit.tripathi@vonage.com>"
+    }
+  }
+}
