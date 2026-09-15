@@ -9,17 +9,17 @@ const topNavbar = [
 
 const mainSidebar = [
   { text: "Overview", link: "/overview" },
-  { text: "O'reilly", link: "/oreilly" },
   { text: "To Do", link: "/todo" },
   {
     collapsed: false,
     text: "Work Experience",
     items: [
       { text: "Work Exp", link: "/exp/" },
-      { text: "Overview of 5 years", link: "/exp/vonage-5y" },
       { text: "Behavioral Principles (amazon)", link: "/exp/amazon-leadership-principles" },
       { text: "What is STAR Method", link: "/exp/star-method" },
-      { text: "My STAR Stories", link: "/exp/star-stories" },
+      { text: "Overview of 5 years", link: "/exp/vonage-5y" },
+      { text: "My User Stories", link: "/exp/user-stories/" },
+      { text: "My STAR Stories", link: "/exp/star-stories/" },
       { text: "Key Items I think", link: "/exp/key-items" },
       { text: "Feedbacks", link: "/exp/feedbacks" },
     ],

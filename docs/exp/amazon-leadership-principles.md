@@ -1,3 +1,7 @@
+---
+outline: [2, 3]
+---
+
 # Amazon Leadership Principles
 
 ## Principles
@@ -51,7 +55,7 @@ Leaders work every day to create a safer, more productive, higher performing, mo
 Amazon must be humble and thoughtful about even the secondary effects of its actions. Leaders must begin each day with a determination to make better, do better, and be better for customers, employees, partners, and the world at large.
 
 
-## Top 30 Amazon Leadership Principles Interview Questions
+## Top 30 Behavioral Questions
 
 Here are the **top 30 most commonly asked Amazon interview questions** mapped to the Leadership Principles:  
 
@@ -157,7 +161,7 @@ Here are the **top 30 most commonly asked Amazon interview questions** mapped to
 
 **31.** Describe a time you faced significant obstacles while trying to achieve a goal. How did you overcome them?
 
-### Pro Tips
+## Pro Tips
 - Use the **STAR format** (Situation, Task, Action, Result) for every answer. 
 - Prepare **3–4 strong projects** from your experience — most stories can flex across multiple principles depending on framing. 
 - Amazon interviewers probe for **depth and specificity** — always be ready with metrics, exact timelines, and concrete outcomes.
