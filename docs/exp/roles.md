@@ -67,3 +67,6 @@ I design, develop, test, and document moderately to highly complex software syst
 Beyond individual delivery, I actively contribute to cross-functional projects, act as a liaison between engineering, external vendors, and business partners, and provide technical guidance and mentorship to less experienced engineers. I present system designs and alterations to peers and leadership, estimate development tasks with predictable accuracy, and proactively identify changes in scope or risk.
 
 Passionate about engineering excellence, continuous improvement, and building software that makes a real difference.
+
+Mention 2 times consecutive KCA 2025 2026
+Special Mention in May - can this be posted to linked in from applause portal?

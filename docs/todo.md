@@ -3,7 +3,8 @@
 ## Redundancy Talks
 
 - [ ] Reply to HR email
-  - [x] ~~Item 2~~
+  - [x] Reply to HR email 3
+  - [x] ~~Reply to HR email 2~~
   - [x] ~~Reply to HR email~~
 
 # Personal docs on ths laptop?
@@ -11,7 +12,7 @@
   - [ ] Visa 3y
   - [ ] Visa 2y
   - [ ] ILR
-  - [ ] Increment Letters Proof
+  - [x] Increment Letters Proof
   - [ ] Current Annual Basic Pay Proof
   - [ ] Appraisal Feedbacks for reference to be use in linkedin summary
 
